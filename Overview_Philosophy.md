@@ -11,7 +11,7 @@
 9. Daoism
 10. Pyrrhonism
 
-## 1. Nihilismus
+## 1. Nihilism
 Nihilism, which was profoundly shaped by Friedrich W. Nietzsche (1844-1900), is a well-known philosophical concept in modern times.
 The main belief is the rise of modern science leads to a decline of religious frameworks,
 and challenges the perspective of whether absolute "true" or "false" values exist.
