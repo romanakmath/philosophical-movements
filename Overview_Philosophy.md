@@ -6,7 +6,7 @@
 4. Stoicism
 5. Existentialism (Sartre or Camus)
 6. Pragmatism (Peirce, James or Dewey)
-7. Social-Contract-Theorie (Rawls)
+7. Social-Contract-Theory (Rawls)
 8. Virtue Ethics (Aristoteles)
 9. Daoism
 10. Pyrrhonism
@@ -35,7 +35,7 @@ While the mainstream frequently reduces it to mere destructiveness, different fo
 Rather than only pointing to collapse, nihilism can also prompt individuals to confront the absence of fixed foundations and shape
 their own boundaries, perspectives, and lived experiences.
 
-Although different variants of nihilism focus on different apsects, the following principles are core characteristics of nihilism.
+Although different variants of nihilism focus on different aspects, the following principles are core characteristics of nihilism.
 
 - **No inherent purpose or objective value:** Nihilism argues that there is no built-in purpose or objective value structure, since everything in 
 existence, meaning or framework, is merely shaped through human perspective and interpretation.
@@ -77,3 +77,4 @@ Out of the perspective of nihilism, group-oriented and traditional-bound individ
 [Origin of Nihilism by J. Bengtsson](Philosophy_Research/Origins_of_Nihilism_Jan_Olof_Bengtsson.pdf)
 [Academic Resource](https://iep.utm.edu/nihilism/)
 [Masterclass Article](https://www.masterclass.com/articles/what-is-nihilism)
+[Nietzsche, Nihilism, and Existentialism](Philosophy_Research/NihilFilm.pdf)
