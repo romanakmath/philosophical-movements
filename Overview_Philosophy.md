@@ -31,16 +31,16 @@ Friedrich H. Jacobi launched a major philosophical attack against the rationalis
 
 ### Core Principles & Key Characteristics
 Nihilism is often associated with extreme pessimism and radical skepticism that questions or rejects common existential values.
-While the mainstream frequently reduce it to mere destructiveness, different forms of nihilism are discussed in more detail later on.
+While the mainstream frequently reduces it to mere destructiveness, different forms of nihilism are discussed in more detail later on.
 Rather than only pointing to collapse, nihilism can also prompt individuals to confront the absence of fixed foundations and shape
 their own boundaries, perspectives, and lived experiences.
 
-Although different variants of nihilism focus on different apsects, the following principles characterize nihilism.
+Although different variants of nihilism focus on different apsects, the following principles are core characteristics of nihilism.
 
 - **No inherent purpose or objective value:** Nihilism argues that there is no built-in purpose or objective value structure, since everything in 
 existence, meaning or framework, is merely shaped through human perspective and interpretation.
 
-- **Rejection of absolute truth:** Without a fixed transcendent framework which claims to know the absolute, universal truth, every objective moral authority called into question.
+- **Rejection of absolute truth:** Without a fixed transcendent framework which claims to know the absolute, universal truth, every objective moral authority is called into question.
 
 - **Absence of intrinsic meaning:** Active nihilism argues that meaning is not inherent in things themselves. It forces a confrontation with emptiness or the task of 
 self-authored value. 
