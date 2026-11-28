@@ -29,9 +29,21 @@ that the idea of an absolute will gradually shifted toward humanity, as humans b
 Later, in the 18th century (beginning in 1783), sparked by a dispute with Moses Mendelssohn over Gotthold E. Lessing and his adherence to Spinozism, 
 Friedrich H. Jacobi launched a major philosophical attack against the rationalist Enlightenment concept by Lessing. While Mendelssohn defended natural theology and offered different readings of Lessing´s Spinoza, Jacobi argued that rationalism and deterministic pantheism dissolve human freedom. In the broader debates of the era, Kant insisted on his postulates of practical reason, Fichte questioned the worth of "heteronomous" Christian ethics, Hegel set up a renewed different kind of idealist rationalism and Herder, Goethe and Schelling also defended the concept of Spinoza. Yet none of them could ignore what Jacobi summed up in his concept, by considering the ultimate defect and disastrous dead-end of modern thought in a dramatic expressive term called Nihilism. 
 
-
 ### Core Principles & Key Characteristics
+Nihilism is often associated with extreme pessimism and radical skepticism that questions or rejects common existential values.
+While the mainstream frequently reduce it to mere destructiveness, different forms of nihilism are discussed in more detail later on.
+Rather than only pointing to collapse, nihilism can also prompt individuals to confront the absence of fixed foundations and shape
+their own boundaries, perspectives, and lived experiences.
 
+Although different variants of nihilism focus on different apsects, the following principles characterize nihilism.
+
+- **No inherent purpose or objective value:** Nihilism argues that there is no built-in purpose or objective value structure, since everything in 
+existence, meaning or framework, is merely shaped through human perspective and interpretation.
+
+- **Rejection of absolute truth:** Without a fixed transcendent framework which claims to know the absolute, universal truth, every objective moral authority called into question.
+
+- **Absence of intrinsic meaning:** Active nihilism argues that meaning is not inherent in things themselves. It forces a confrontation with emptiness or the task of 
+self-authored value. 
 
 ### View of Humanity & Worldview
 
@@ -52,3 +64,4 @@ Friedrich H. Jacobi launched a major philosophical attack against the rationalis
 #### 1. Nihilism
 [Nietzsche and Concept of Nihilism](Philosophy_Research/Nietzsche_and_the_Concept_of_Nihilism_and_Its_Deve.pdf)
 [Origin of Nihilism by J. Bengtsson](Philosophy_Research/Origins_of_Nihilism_Jan_Olof_Bengtsson.pdf)
+[Masterclass Article](https://www.masterclass.com/articles/what-is-nihilism)
