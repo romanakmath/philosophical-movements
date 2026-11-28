@@ -45,7 +45,18 @@ existence, meaning or framework, is merely shaped through human perspective and 
 - **Absence of intrinsic meaning:** Active nihilism argues that meaning is not inherent in things themselves. It forces a confrontation with emptiness or the task of 
 self-authored value. 
 
-### View of Humanity & Worldview
+### Worldview & View of Humanity 
+In a nihilistic worldview, reality is nowhere anchored, whether in a metaphysical order, transcendent purpose, or inherent moral structure.
+This perspective echoes the pre-Socratic philosopher Heraclitus, who said that the world is based on the principle of dynamic change.
+This constant change of nature and humanity is often called 'flux' or 'stream' of life and is contrary to a static, predefined worldview.
+While Schoppenhauer associated this flux primarily with disappointments and despair, Nietzsche instead views it as a dynamic tension and source of creative challenges and opportunities. In its most radical and extreme form, this worldview also attempts to negate the belief in any inherent natural order or 'moral structure'. It is a denial of the world´s intrinsic value, and not merely the intrinsic values of the particular objects, events or experiencing entities in this world.   
+
+In Nietzsche´s perspective of nihilism, human nature mirrors Nature itself: both are, as noted earlier, in constant transition and a process of self-diversification. 
+Active nihilism (or creative individuality) rejects fixed, conventional, traditional or transcendent frameworks and values, so that individuals can form their own values and perspectives. One quote captures this tension clearly: 
+
+*"We are not creatures of infinite power and aptitude, and yet we have the creative capacity to transcend particular limitations within those inescapable conditions that have been established by Nature."*
+
+Out of the perspective of nihilism, group-oriented and traditional-bound individuals accept the externally imposed duties without questioning them. Whereas passive nihilists are individuals who break away from conventional boundaries, but since they lack the self-knowledge and creative drive of active nihilism, they remain in 'negative freedom' and eventually slide toward life-negation and self-denial.
 
 
 ### Decision Logic & Value Criteria
@@ -64,4 +75,5 @@ self-authored value.
 #### 1. Nihilism
 [Nietzsche and Concept of Nihilism](Philosophy_Research/Nietzsche_and_the_Concept_of_Nihilism_and_Its_Deve.pdf)
 [Origin of Nihilism by J. Bengtsson](Philosophy_Research/Origins_of_Nihilism_Jan_Olof_Bengtsson.pdf)
+[Academic Resource](https://iep.utm.edu/nihilism/)
 [Masterclass Article](https://www.masterclass.com/articles/what-is-nihilism)
